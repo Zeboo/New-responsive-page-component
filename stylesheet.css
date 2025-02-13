@@ -1,0 +1,157 @@
+/* body{
+    width: 1440px;
+height: 1200px;
+padding-top: 96px;
+padding-bottom: 96px;
+gap: 64px;
+top: 6218px;
+left: 7797px;
+background: #FFFFFF;
+
+} */
+.container {
+    background: #f9f9f9;
+    width: 1440px;
+height: 1200px;
+padding-top: 96px;
+padding-bottom: 96px;
+gap: 64px;
+top: 6218px;
+left: 7797px;
+
+}
+
+img {
+    margin: 5px;
+    width: 80px;
+height: 80px;
+border-radius: 40px;
+
+}
+.flex-column { 
+    max-width : 260px;
+}
+.name{
+    width: 232px;
+height: 28px;
+font-style: 'inter';
+font-weight: 500;
+font-size: 18px;
+line-height: 28px;
+letter-spacing: 0%;
+
+color: #101828;
+
+}
+.designation{
+    width: 232px;
+height: 24px;
+font-style: 'inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+color: #6941C6;
+
+
+}
+.details{
+    width: 232px;
+height: 72px;
+font-style: 'inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+ color: #667085;
+
+}
+.icon{
+    width: 20px;
+height: 20px;
+color: #98A2B3;
+
+}
+.heading{
+    width: 768px;
+height: 44px;
+font-style: 'Inter';
+font-weight: 600;
+font-size: 36px;
+line-height: 44px;
+letter-spacing: -2%;
+text-align: center;
+padding-left:245px;
+color: #101828;
+justify-content: center;
+}
+.sub-heading{
+    width: 768px;
+height: 24px;
+font-style: 'Inter';
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+/* padding-left: 155px; */
+color: #6941C6;
+justify-content: center;
+padding-left: 145px;
+
+}
+.supporting-text{
+    width: 768px;
+height: 60px;
+font-style: 'Inter';
+font-weight: 400px;
+font-size: 20px;
+line-height: 30px;
+letter-spacing: 0%;
+text-align: center;
+/* padding-left: 125px; */
+color: #667085;
+justify-content: center;
+padding-left: 135px;
+
+
+}
+.header{
+    width: 1280px;
+height: 248px;
+padding-right: 32px;
+padding-left: 32px;
+gap: 32px;
+justify-content: center;
+
+}
+
+.btn-light{
+    width: 109px;
+height: 48px;
+border-radius: 8px;
+
+
+
+
+}
+.btn-primary{
+    width: 156px;
+height: 48px;
+border-width: 1px;
+padding-top: 12px;
+padding-right: 20px;
+padding-bottom: 12px;
+padding-left: 20px;
+gap: 8px;
+border-radius: 8px;
+background: #7F56D9;
+box-shadow: 0px 1px 2px 0px #1018280D;
+
+
+
+}
+.buttons{
+    padding-left: 320px;
+    justify-content: center;
+}
