@@ -1,0 +1,1 @@
+# New-responsive-page-component
